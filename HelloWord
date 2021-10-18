@@ -1,2 +1,3 @@
 import tensrflow as tf
 import numpy as np
+#引入tf和np
